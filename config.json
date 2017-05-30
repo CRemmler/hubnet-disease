@@ -1,0 +1,23 @@
+{
+  "interfaceJs": {
+    "loginComponents": {
+      "componentRange": [40,40]
+    },
+    "studentComponents": {
+      "componentRange": [22,39]
+    },
+    "teacherComponents": {
+      "componentRange": [0,21]
+    }
+  },
+  "clientJs": {
+    "reporterComponents": {
+       "Located at:": "#netlogo-monitor-37 output",
+       "You are a:": "#netlogo-monitor-36 output",
+       "Sick?": "#netlogo-monitor-38 output"
+    },
+    "inputComponents": {
+       "step-size": "netlogo-slider-35"
+    }
+  }
+}
