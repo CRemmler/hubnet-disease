@@ -12,8 +12,8 @@
   },
   "clientJs": {
     "reporterComponents": {
-       "Located at:": "#netlogo-monitor-37 output",
-       "You are a:": "#netlogo-monitor-36 output",
+       "Located at:": "#netlogo-monitor-36 output",
+       "You are a:": "#netlogo-monitor-37 output",
        "Sick?": "#netlogo-monitor-38 output"
     },
     "inputComponents": {
